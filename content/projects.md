@@ -4,18 +4,17 @@ description: "Project page"
 showAuthor: false
 showDate: false
 showReadingTime: false
+showTableOfContents: true
 ---
 
 ## Work projects
 
 ### 🌐 100M MAU
-**Social platform at a unicorn startup** · Backend engineer
+**Social platform at a unicorn startup**
 
 Own the backend of user-facing social features serving 100M monthly active users, with a focus on reliability and scale.
 
 `Go` `Kafka` `AWS` `Redis` `Postgres`
-
----
 
 ### ⚡ Zero to flagship in 6 months
 **The company's highest-priority strategic product**
@@ -24,8 +23,6 @@ Took the company's #1 strategic product from blank page to working MVP in 1 mont
 
 `Go` `AWS` `Kafka` `Postgres`
 
----
-
 ### 📈 +130% weekly clicks
 **Email notifications system**
 
@@ -33,16 +30,12 @@ Delivered a new email notifications system that increased weekly clicks by over 
 
 `Go` `Kafka` `AWS SQS`
 
----
-
 ### ☁️ Cloud cost SaaS
 **Public cloud cost analysis and reduction**
 
 Designed, built, and launched a SaaS product that analyzes and reduces public cloud costs.
 
 `Java` `AWS` `Cloud cost optimization`
-
----
 
 ### 📱 From frozen to 100K customers
 **Telecom SIM-only product**
