@@ -53,6 +53,15 @@ Led the restart of a frozen SIM-only product, gaining 100K customers in 6 months
 
 ## Personal projects
 
+### 💸 GnuCash Android
+**Core contributor to one of the most popular open-source Android finance apps**
+
+Mobile companion to GnuCash, one of the most widely used open-source accounting tools. Users record transactions on the go and export them to the desktop app. With 1.2k★ stars and 500+ forks, it was one of the most popular open-source Android finance apps of its era. Listed as a core contributor in the project's official contributors file.
+
+`Java` `Android` `Open source` `GNU`
+
+[Source](https://github.com/codinguser/gnucash-android)
+
 ### 🔍 Binaryx Lens
 **On-chain analytics for tokenized real estate**
 
